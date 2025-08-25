@@ -31,7 +31,7 @@ export default function Projects() {
       technologies: ['Next.js', 'TypeScript', 'OpenWeatherMap API', 'Tailwind CSS'],
       image: 'https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=600',
       github: 'https://github.com/azro1/weather-dashboard',
-      live: 'https://weather-dashboard-lemon-gamma.vercel.app/',
+      live: 'https://weather-dashboard-alpha-pearl.vercel.app/',
       featured: false,
     },
     {
