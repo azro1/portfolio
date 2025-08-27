@@ -74,7 +74,7 @@ export default function Hero() {
         <div className="absolute top-[16%] right-[22%] w-3 h-3 bg-purple-400 rounded-full animate-bounce"></div>
       </div>
 
-      <div className="container mx-auto px-6 text-center z-10 md:pt-0">
+      <div className="container mx-auto px-6 py-32 text-center z-10">
         <div className="animate-fadeInUp">
           {/* Profile Image Placeholder */}
           <div className="relative mb-8 group">
