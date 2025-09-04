@@ -9,7 +9,7 @@ export default function Projects() {
   const projects = [
     {
       title: 'E-Commerce Platform',
-      description: 'A full-stack e-commerce solution with React, Node.js, and MongoDB. Features include user authentication, payment processing, and admin dashboard.',
+      description: 'A full-stack e-commerce solution with React, Node.js, and MongoDB. Features include user authentication, shopping cart functionality and payment processing.',
       technologies: ['Express', 'Node.js', 'MongoDB', 'Stripe'],
       image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=600',
       github: 'https://github.com/azro1/E-Shop',
