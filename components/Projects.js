@@ -12,8 +12,8 @@ export default function Projects() {
       description: 'A full-stack e-commerce solution with React, Node.js, and MongoDB. Features include user authentication, payment processing, and admin dashboard.',
       technologies: ['Express', 'Node.js', 'MongoDB', 'Stripe'],
       image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=600',
-      github: 'https://github.com/azro1/fresh-threads',
-      live: 'https://fresh-threads.onrender.com/',
+      github: 'https://github.com/azro1/E-Shop',
+      live: 'https://e-shop-1y11e3ox9-simons-projects-9f974517.vercel.app/',
       featured: true,
     },
     {
