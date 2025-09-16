@@ -13,7 +13,7 @@ export default function Projects() {
       technologies: ['Express', 'Node.js', 'MongoDB', 'Stripe'],
       image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=600',
       github: 'https://github.com/azro1/E-Shop',
-      live: 'https://e-shop-cscryst6r-simons-projects-9f974517.vercel.app/',
+      live: 'https://e-shop-one-black.vercel.app/',
       featured: true,
     },
     {
