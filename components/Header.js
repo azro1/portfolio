@@ -23,7 +23,7 @@ export default function Header({ activeSection }) {
   };
 
   return (
-    <header className="fixed top-0 left-0 right-0 z-50 bg-gray-900/80 backdrop-blur-md border-b border-gray-700/50">
+    <header className="fixed top-0 left-0 right-0 z-50 bg-gray-800 border-b border-gray-700/50">
       <div className="container mx-auto px-6 py-4">
         <nav className="flex items-center justify-between">
           <div className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-cyan-400 bg-clip-text text-transparent">
@@ -60,7 +60,7 @@ export default function Header({ activeSection }) {
 
         {/* Mobile Navigation */}
         {isOpen && (
-          <div className="md:hidden absolute top-full left-0 right-0 bg-gray-900/95 backdrop-blur-md border-b border-gray-700/50">
+          <div className="md:hidden absolute top-full left-0 right-0 bg-gray-800 border-b border-gray-700/50">
             <ul className="py-4 space-y-2">
               {navItems.map((item) => (
                 <li key={item.id}>
