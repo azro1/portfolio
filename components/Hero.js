@@ -53,7 +53,7 @@ export default function Hero() {
 
   if (!mounted) {
     return (
-      <section id="home" className="min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-900 via-purple-900 to-gray-900 ">
+      <section id="home" className="min-h-screen flex items-center justify-center bg-gray-900">
         <div className="text-center">
           <div className="w-32 h-32 bg-slate-700 rounded-full mx-auto mb-8 animate-pulse"></div>
           <div className="space-y-4">
@@ -66,7 +66,7 @@ export default function Hero() {
   }
 
   return (
-    <section id="home" className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-900 via-purple-900 to-gray-900 overflow-hidden">
+    <section id="home" className="relative min-h-screen flex items-center justify-center bg-gray-900 overflow-hidden">
       {/* Floating Elements */}
       <div className="absolute inset-0">
         <div className="absolute top-1/4 left-1/4 w-2 h-2 bg-cyan-400 rounded-full animate-ping"></div>
