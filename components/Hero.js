@@ -124,7 +124,7 @@ export default function Hero() {
           {/* CTA Button */}
           <button
             onClick={() => scrollToProjects()}
-            className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-purple-500 to-cyan-500 text-white font-semibold rounded-full hover:from-purple-600 hover:to-cyan-600 transition-all duration-300 hover:scale-105 hover:shadow-lg animate-slideInUp delay-800"
+            className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-purple-500 to-cyan-500 text-white font-semibold rounded-lg hover:from-purple-600 hover:to-cyan-600 transition-all duration-300 hover:scale-105 hover:shadow-lg animate-slideInUp delay-800"
           >
             View My Work
             <ChevronDown className="ml-2 w-5 h-5 animate-bounce" />
