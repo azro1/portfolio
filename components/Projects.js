@@ -35,12 +35,12 @@ export default function Projects() {
       featured: false,
     },
     {
-      title: 'Portfolio CMS',
-      description: 'A content management system for portfolios with drag-and-drop builder, theme customization, and SEO optimization.',
-      technologies: ['React', 'Express', 'MongoDB', 'AWS S3'],
+      title: 'FlareCare',
+      description: 'A personal health management app for Crohn\'s & Colitis patients with symptom tracking, medication management, and detailed reporting. Features optional cloud sync and mobile-responsive design.',
+      technologies: ['Next.js', 'React', 'Tailwind CSS', 'Supabase', 'JavaScript'],
       image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=600',
-      github: '#',
-      live: '#',
+      github: 'https://github.com/azro1/flare-care',
+      live: 'https://flare-care.vercel.app/',
       featured: true,
     },
   ];
