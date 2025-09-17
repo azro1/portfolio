@@ -38,7 +38,7 @@ export default function Projects() {
       title: 'FlareCare',
       description: 'A personal health management app for Crohn\'s & Colitis patients with symptom tracking, medication management, and detailed reporting. Features optional cloud sync and mobile-responsive design.',
       technologies: ['Next.js', 'React', 'Tailwind CSS', 'Supabase', 'JavaScript'],
-      image: 'https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://images.pexels.com/photos/4386467/pexels-photo-4386467.jpeg?auto=compress&cs=tinysrgb&w=600',
       github: 'https://github.com/azro1/flare-care',
       live: 'https://flare-care.vercel.app/',
       featured: true,
