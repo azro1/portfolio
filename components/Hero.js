@@ -103,7 +103,7 @@ export default function Hero() {
             </span>
           </div>
 
-          <p className="text-sm md:text-lg text-gray-400 mb-8 md:mb-12 max-w-2xl mx-auto animate-slideInUp delay-400 px-4">
+          <p className="text-base md:text-lg text-gray-400 mb-8 md:mb-12 max-w-2xl mx-auto animate-slideInUp delay-400 px-4">
             Passionate about creating beautiful, functional, and user-friendly applications that solve real-world problems. 
             Let&apos;s build something amazing together.
           </p>
