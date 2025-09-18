@@ -89,12 +89,11 @@ export default function Hero() {
             </div>
           </div>
 
-          <h1 className="text-4xl md:text-5xl lg:text-7xl font-bold mb-6 animate-slideInUp"> 
           <h1 className="text-3xl md:text-5xl lg:text-7xl font-bold mb-6 animate-slideInUp"> 
             <span className="bg-gradient-to-r from-purple-400 to-cyan-400 bg-clip-text text-transparent">
               Simon Sutherland 
             </span> 
-         </h1>
+          </h1>
 
           
           <div className="text-base md:text-xl lg:text-2xl text-white mb-8 h-6 md:h-8 animate-slideInUp delay-200">
