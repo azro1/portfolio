@@ -10,7 +10,7 @@
   },
   "engines": {
     "node": "22.x"
-  }
+  },
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
     "@next/swc-wasm-nodejs": "13.5.1",
